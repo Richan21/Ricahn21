@@ -4,6 +4,7 @@
 
 <b>Microsoft-Azure</b>
   - [Azure VMs: Creating-Azure-VMs](https://github.com/Richan21/Creating-Azure-VMs/tree/main)
+  - [Azure Log Analytics Workspace: Creating-Log-Analytics-Workspace](https://github.com/Richan21/Creating-Log-Analytics-Workspace/blob/main)
 
 <b>Azure SOC/Honeynet Setup (Microsoft Azure Tool)</b>
   - [Azure SOC and Honeynet Setup Guide: Prerequisites and Installation](https://github.com/Richan21/How-to-Implement-a-SOC-in-AZURE)
