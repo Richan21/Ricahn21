@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Creating-Azure-VMs</b>
+https://github.com/Richan21/Creating-Azure-VMs/tree/main
 - <b>Azure SOC/Honeynet Setup (Microsoft Azure Tool)</b>
   - [Azure SOC and Honeynet Setup Guide: Prerequisites and Installation](https://github.com/Richan21/How-to-Implement-a-SOC-in-AZURE)
 
