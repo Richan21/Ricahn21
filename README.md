@@ -2,12 +2,13 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+<b>Installing and using VPN on Azure VM (Using PROTONVPN)</b>
+  - [Creating-a-Virtual-Private-Network-on-Azure-VM](https://github.com/Richan21/Creating-a-Virtual-Private-Network-on-Azure-VM/blob/main/README.md)
+
+
 <b>Microsoft-Azure</b>
   - [Azure VMs: Creating-Azure-VMs](https://github.com/Richan21/Creating-Azure-VMs/tree/main)
   - [Azure Log Analytics Workspace: Creating-Log-Analytics-Workspace](https://github.com/Richan21/Creating-Log-Analytics-Workspace/blob/main)
-
-<b>Azure SOC/Honeynet Setup (Microsoft Azure Tool)</b>
-  - [Azure SOC and Honeynet Setup Guide: Prerequisites and Installation](https://github.com/Richan21/How-to-Implement-a-SOC-in-AZURE)
 
 <h2>🤳Connect with me:</h2>
 
